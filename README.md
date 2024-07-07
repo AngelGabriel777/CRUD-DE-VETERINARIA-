@@ -16,7 +16,7 @@ CRUD de Veterinaria en Spring Tool Suite 4
 
 ## Agregar Producto
 
-![Agregar Producto](./images/agregar_producto.png)
+![Agregar Producto](./images/agregar_productos.png)
 
 ## Agregar Cliente
 
